@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-28T18:00:00+10:00">
+<yml_catalog date="2026-09-29T12:00:00+10:00">
   <shop>
     <name>BELOBROVA Beauty</name>
     <company>BELOBROVA Beauty</company>
@@ -99,12 +99,12 @@
       </offer>
       <offer id="makiyazh-express">
         <name>Экспресс-макияж</name>
-        <price>2500</price>
+        <price>2650</price>
         <currencyId>RUB</currencyId>
         <categoryId>5</categoryId>
         <url>https://n1303524.yclients.com</url>
         <picture>https://raw.githubusercontent.com/ElenaKvadrat/Belobrova-photo-GEO/main/makiyazh-express.jpg</picture>
-        <description>Экспресс-макияж во Владивостоке в студии BELOBROVA Beauty — самый быстрый и бюджетный вариант мейкапа, всего за 2500 ₽.
+        <description>Экспресс-макияж во Владивостоке в студии BELOBROVA Beauty — самый быстрый и бюджетный вариант мейкапа, всего за 2650 ₽.
 
 Что такое экспресс-макияж. Это нюдовый макияж с эффектом «без макияжа», который быстро освежает внешний вид и подчёркивает достоинства. В него входят уход для лица, тон, сухая цветокоррекция, укладка бровей, тушь и бальзам для губ. Занимает до 30 минут.
 
@@ -125,7 +125,7 @@
 
 Кроме экспресс-макияжа, в студии BELOBROVA на Партизанском проспекте, 42 можно сделать дневной, вечерний и свадебный макияж, а также укладку и оформление бровей.
 
-Цена экспресс-макияжа — 2500 ₽ — уточняйте при записи по телефону +7 (924) 000-50-03 или на belobrovaproject.ru.</description>
+Цена экспресс-макияжа — 2650 ₽ — уточняйте при записи по телефону +7 (924) 000-50-03 или на belobrovaproject.ru.</description>
       </offer>
     </offers>
   </shop>
